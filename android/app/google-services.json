@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253079264333",
+    "project_id": "parental-watch-8d2cf",
+    "storage_bucket": "parental-watch-8d2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253079264333:android:f12ff8ce2cbd530f299004",
+        "android_client_info": {
+          "package_name": "com.example.parental_watch_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253079264333-o5jc71e3icnrqt4mfgshheb3v97neto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3uvoQCRogWwmTq4GI-iUpV8MfoYVNJNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253079264333-o5jc71e3icnrqt4mfgshheb3v97neto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
